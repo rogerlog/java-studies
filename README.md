@@ -13,7 +13,7 @@
 
 #### 	
 
-#### 	Visita na Feira
+#### 	<u>Visita na Feira</u>
 
 **Desafio**
 Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimetões amarelos e vermelhos para descobrir o total de pimentões na sacola.  Você receberá 2 inteiros que devem ser lidos e armazenados nas variáveis A (pimentões amarelos) e B (pimentões vermelhos). Faça a soma de A e B atribuindo o seu resultado na variável X (total de pimentões). Apresente X como descrito na mensagem de exemplo abaixo. Não apresente outra mensagem além da mensagem especificada.
@@ -32,7 +32,7 @@ Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da va
 
 
 
-#### 	Multiplicação Simples
+#### 	<u>Multiplicação Simples</u>
 
 **Desafio**
 Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).   
@@ -51,7 +51,7 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 
 
 
-#### 	Folha de Pagamento
+#### 	<u>Folha de Pagamento</u>
 
 **Desafio**
 Precisamos saber quanto uma determinada empresa deve pagar para seus colaboradores, porém temos apenas a quantidade de horas trabalhadas e o valor hora. Escreva um programa que leia o número de um colaborador, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse colaborador. Em seguida, apresente o número e o salário do colaborador, com duas casas decimais.
